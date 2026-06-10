@@ -2,6 +2,8 @@
 def sumar(a,b):
     return a+b
 
-
+def dividir(a,b):
+    return a/b
 
 print(sumar(1,1))
+print(dividir(10,2))
