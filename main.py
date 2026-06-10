@@ -2,6 +2,9 @@
 def sumar(a,b):
     return a+b
 
+def dividir(a,b):
+    return a/b
+
 def potencia(a,b):
     return a**b
 
@@ -15,3 +18,4 @@ def multiplicar(a,b):
 print(sumar(1,1))
 print(restar(1,1))
 print(potencia(2,5))
+print(dividir(10,2))
